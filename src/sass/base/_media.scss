@@ -1,0 +1,27 @@
+@media (max-width: 1200px) {
+
+}
+
+@media (max-width: 991px) {
+.header {
+    margin: 0 20px;
+}
+    .promo {
+    &__wrapper {
+        margin-right: 20px;
+    }
+}
+}
+.advantages {
+    &__wrapper {
+        margin: 65px 20px 0 20px;
+    }
+}
+
+@media (max-width: 767px) {
+
+}
+
+@media (max-width: 575px) {
+
+}
